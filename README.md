@@ -27,57 +27,11 @@ Testing: Postman
 ✅ Modular, maintainable code structure
 ✅ Built with Agile methodology and tested with Postman
 
-📸 Screenshots
-(Add your app screenshots or demo GIFs here)
-
-🚀 Getting Started
-1️⃣ Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/realtime-chat-app.git
-cd realtime-chat-app
-2️⃣ Install Dependencies
-Backend
-bash
-Copy
-Edit
-cd backend
-npm install
-Frontend
-bash
-Copy
-Edit
-cd frontend
-npm install
-3️⃣ Setup Environment Variables
-Create a .env file in the backend folder:
-
-env
-Copy
-Edit
-PORT=5000
-MONGO_URI=your_mongodb_atlas_connection_string
-JWT_SECRET=your_secret_key
-4️⃣ Run the Application
-Start the backend:
-
-bash
-Copy
-Edit
-cd backend
-npm run dev
-Start the frontend:
-
-bash
-Copy
-Edit
-cd frontend
-npm start
+ 
 📦 Deployment
 Backend: Render
 
-Frontend (Live Demo): Chat App
+Frontend:  https://github.com/yourusername/realtime-chat-app.git 
 
 Database: MongoDB Atlas
 
