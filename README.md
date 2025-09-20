@@ -38,7 +38,7 @@ Testing: Postman
 
 Backend: Render
 
-Frontend:  https://github.com/yourusername/realtime-chat-app.git 
+Frontend:   https://real-time-chat-application-gluf.onrender.com/
 
 Database: MongoDB Atlas
 
